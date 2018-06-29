@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{135:function(t,o){t.exports={data:{site:{siteMetadata:{author:"Phanor Coll",homepage:"https://twitter.com/phanor",title:"Phanor Coll - Fullstack Developer [ Gopher in Action ]"}}},layoutContext:{}}}});
-//# sourceMappingURL=path----9210fd498fe5b580ed90.js.map

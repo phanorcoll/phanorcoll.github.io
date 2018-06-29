@@ -1,94 +1,190 @@
 {
   "assetsByChunkName": {
-    "component---src-pages-index-js": [
-      "component---src-pages-index-js-ef00eb4a54ce492a58cd.js",
-      "component---src-pages-index-js-ef00eb4a54ce492a58cd.js.map"
+    "path---tags-es-6": [
+      "path---tags-es-6-e6436feac3b1dcee7f91.js",
+      "path---tags-es-6-e6436feac3b1dcee7f91.js.map"
     ],
-    "path---reactjs-journey": [
-      "path---reactjs-journey-50649cadfb0c9c7ae299.js",
-      "path---reactjs-journey-50649cadfb0c9c7ae299.js.map"
+    "path---lab-srpsystems": [
+      "path---lab-srpsystems-2f3dec755ec3f0451295.js",
+      "path---lab-srpsystems-2f3dec755ec3f0451295.js.map"
+    ],
+    "path---tags-containers": [
+      "path---tags-containers-8d28e807475b0d07478b.js",
+      "path---tags-containers-8d28e807475b0d07478b.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-e94e4252cb6bb47cd12f.js",
+      "component---src-pages-index-js-e94e4252cb6bb47cd12f.js.map"
+    ],
+    "component---src-templates-tags-js": [
+      "component---src-templates-tags-js-07569823c3fddd3dfc70.js",
+      "component---src-templates-tags-js-07569823c3fddd3dfc70.js.map"
+    ],
+    "path---tags-bootstrap": [
+      "path---tags-bootstrap-e63d3e9538871b5e3bea.js",
+      "path---tags-bootstrap-e63d3e9538871b5e3bea.js.map"
+    ],
+    "path---tags": [
+      "path---tags-3a30932990bef812e894.js",
+      "path---tags-3a30932990bef812e894.js.map"
+    ],
+    "path---digital-nomad": [
+      "path---digital-nomad-982491fa5af588c50cd2.js",
+      "path---digital-nomad-982491fa5af588c50cd2.js.map"
+    ],
+    "component---src-pages-contact-jsx": [
+      "component---src-pages-contact-jsx-54774d29bb8f474c4ba0.js",
+      "component---src-pages-contact-jsx-54774d29bb8f474c4ba0.js.map"
     ],
     "path---": [
-      "path----9210fd498fe5b580ed90.js",
-      "path----9210fd498fe5b580ed90.js.map"
+      "path----395e64b3244ebf7907a9.js",
+      "path----395e64b3244ebf7907a9.js.map"
     ],
-    "component---src-pages-contact-js": [
-      "component---src-pages-contact-js-903d063e0a48f7a901d6.js",
-      "component---src-pages-contact-js-903d063e0a48f7a901d6.js.map"
+    "path---tags-javascript": [
+      "path---tags-javascript-273fcef4a1f596e083e6.js",
+      "path---tags-javascript-273fcef4a1f596e083e6.js.map"
     ],
-    "path---projects": [
-      "path---projects-a0e39f21c11f6a62c5ab.js",
-      "path---projects-a0e39f21c11f6a62c5ab.js.map"
+    "path---journey-reactjs": [
+      "path---journey-reactjs-66a0a188b3c07f2c3a52.js",
+      "path---journey-reactjs-66a0a188b3c07f2c3a52.js.map"
     ],
-    "path---neo-4-j-partner-program": [
-      "path---neo-4-j-partner-program-ee7c2d43390c7ce9d25f.js",
-      "path---neo-4-j-partner-program-ee7c2d43390c7ce9d25f.js.map"
+    "path---tags-reactjs": [
+      "path---tags-reactjs-28e97a982a8dd3ebf87f.js",
+      "path---tags-reactjs-28e97a982a8dd3ebf87f.js.map"
+    ],
+    "path---lab-gigster": [
+      "path---lab-gigster-1404bd7fe89bf9b28b40.js",
+      "path---lab-gigster-1404bd7fe89bf9b28b40.js.map"
+    ],
+    "path---migrating-to-gatsby": [
+      "path---migrating-to-gatsby-0b471ca83b5c28fa4d94.js",
+      "path---migrating-to-gatsby-0b471ca83b5c28fa4d94.js.map"
+    ],
+    "path---tags-neo-4-j": [
+      "path---tags-neo-4-j-344b8ab4e58445903394.js",
+      "path---tags-neo-4-j-344b8ab4e58445903394.js.map"
+    ],
+    "component---src-pages-lab-js": [
+      "component---src-pages-lab-js-8727040dedc58942028d.js",
+      "component---src-pages-lab-js-8727040dedc58942028d.js.map"
+    ],
+    "path---neo-4-j-partner": [
+      "path---neo-4-j-partner-7565b45eb6e7674c47d0.js",
+      "path---neo-4-j-partner-7565b45eb6e7674c47d0.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-6b70d05528bffddbafbb.js",
+      "component---src-templates-blog-post-js-6b70d05528bffddbafbb.js.map"
+    ],
+    "path---tags-gatsbyjs": [
+      "path---tags-gatsbyjs-b5164bdb1f5b393809ff.js",
+      "path---tags-gatsbyjs-b5164bdb1f5b393809ff.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-23ed5496e0acbdcfa7bf.js",
-      "component---src-layouts-index-js-23ed5496e0acbdcfa7bf.js.map"
+      "component---src-layouts-index-js-996a3eb5fddacc623e20.js",
+      "component---src-layouts-index-js-996a3eb5fddacc623e20.js.map"
+    ],
+    "path---tags-linux": [
+      "path---tags-linux-d7fee4c0c3429d0e0234.js",
+      "path---tags-linux-d7fee4c0c3429d0e0234.js.map"
+    ],
+    "path---tags-partner-program": [
+      "path---tags-partner-program-e3c00cb38aadf7f6ce71.js",
+      "path---tags-partner-program-e3c00cb38aadf7f6ce71.js.map"
+    ],
+    "path---lab-weaveiq": [
+      "path---lab-weaveiq-aadade9639654a746b0c.js",
+      "path---lab-weaveiq-aadade9639654a746b0c.js.map"
+    ],
+    "path---docker-elementaryos": [
+      "path---docker-elementaryos-79750327d93cd3bb66b8.js",
+      "path---docker-elementaryos-79750327d93cd3bb66b8.js.map"
     ],
     "path---index": [
-      "path---index-2eb59d7d46fa9aad1cf6.js",
-      "path---index-2eb59d7d46fa9aad1cf6.js.map"
+      "path---index-1f10bae6737695e8c57b.js",
+      "path---index-1f10bae6737695e8c57b.js.map"
     ],
-    "path---digital-nomad-evolutio-revolution": [
-      "path---digital-nomad-evolutio-revolution-c3de2e5af648e1284fba.js",
-      "path---digital-nomad-evolutio-revolution-c3de2e5af648e1284fba.js.map"
+    "path---tags-graph": [
+      "path---tags-graph-8e673150006099256f24.js",
+      "path---tags-graph-8e673150006099256f24.js.map"
+    ],
+    "path---lab-misfits": [
+      "path---lab-misfits-1b1fb34ce96c3e34167a.js",
+      "path---lab-misfits-1b1fb34ce96c3e34167a.js.map"
     ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-2c3eff8a943fc932dd40.js",
-      "component---src-pages-404-js-2c3eff8a943fc932dd40.js.map"
+      "component---src-pages-404-js-c1d29b7360e1af61b75d.js",
+      "component---src-pages-404-js-c1d29b7360e1af61b75d.js.map"
     ],
     "commons": [
-      "commons-2953066a59faa3314f97.js",
-      "commons-2953066a59faa3314f97.js.map"
+      "commons-d501ab87b14ad040ad05.js",
+      "commons-d501ab87b14ad040ad05.js.map"
+    ],
+    "component---src-templates-portfolio-js": [
+      "component---src-templates-portfolio-js-4f89e818f2d11248837f.js",
+      "component---src-templates-portfolio-js-4f89e818f2d11248837f.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---tags-ssg": [
+      "path---tags-ssg-6fb3c97bb7c106c295e6.js",
+      "path---tags-ssg-6fb3c97bb7c106c295e6.js.map"
+    ],
+    "path---tags-digital-nomad": [
+      "path---tags-digital-nomad-73251c5755181209607c.js",
+      "path---tags-digital-nomad-73251c5755181209607c.js.map"
+    ],
     "path---contact": [
       "path---contact-a0e39f21c11f6a62c5ab.js",
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-templates-post-js": [
-      "component---src-templates-post-js-ef03efbc6ff27b38dfa5.js",
-      "component---src-templates-post-js-ef03efbc6ff27b38dfa5.js.map"
+    "path---tags-docker": [
+      "path---tags-docker-b9c1d371c6f941202280.js",
+      "path---tags-docker-b9c1d371c6f941202280.js.map"
     ],
-    "component---src-pages-projects-js": [
-      "component---src-pages-projects-js-0cc924eb3e94717f0b83.js",
-      "component---src-pages-projects-js-0cc924eb3e94717f0b83.js.map"
+    "path---lab-lifograph": [
+      "path---lab-lifograph-5a5364e31985d989bf9a.js",
+      "path---lab-lifograph-5a5364e31985d989bf9a.js.map"
     ],
-    "path---bootstrap-img-responsive-problem": [
-      "path---bootstrap-img-responsive-problem-dbb945e1f34d7b727c16.js",
-      "path---bootstrap-img-responsive-problem-dbb945e1f34d7b727c16.js.map"
-    ],
-    "path---atom-packages": [
-      "path---atom-packages-be4fb4d8ae451fed4a2d.js",
-      "path---atom-packages-be4fb4d8ae451fed4a2d.js.map"
+    "component---src-templates-all-tags-js": [
+      "component---src-templates-all-tags-js-75fd51bb5f5669aeef7e.js",
+      "component---src-templates-all-tags-js-75fd51bb5f5669aeef7e.js.map"
     ],
     "app": [
-      "app-38cb41b8f4987cfb3a3a.js",
+      "app-da4630058ea9339284ef.js",
       "build-js-styles.css",
-      "app-38cb41b8f4987cfb3a3a.js.map",
+      "app-da4630058ea9339284ef.js.map",
       "build-js-styles.css.map"
     ],
-    "path---docker-elementary": [
-      "path---docker-elementary-05f093204818c013fd99.js",
-      "path---docker-elementary-05f093204818c013fd99.js.map"
+    "path---lab": [
+      "path---lab-eaf948d9283597689e4c.js",
+      "path---lab-eaf948d9283597689e4c.js.map"
+    ],
+    "path---bootstrap-image-responsive": [
+      "path---bootstrap-image-responsive-8ed2c63c5a4e59643392.js",
+      "path---bootstrap-image-responsive-8ed2c63c5a4e59643392.js.map"
+    ],
+    "path---lab-lingk": [
+      "path---lab-lingk-2ad099aff47b35ea5803.js",
+      "path---lab-lingk-2ad099aff47b35ea5803.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---openshift-ghost-url-config": [
-      "path---openshift-ghost-url-config-05aa5f65cc38339b4b57.js",
-      "path---openshift-ghost-url-config-05aa5f65cc38339b4b57.js.map"
+    "path---tags-front-end": [
+      "path---tags-front-end-d6f1643253c13be1d27f.js",
+      "path---tags-front-end-d6f1643253c13be1d27f.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-5a6fa70eef2f894a722e.js",
-      "component---src-pages-about-js-5a6fa70eef2f894a722e.js.map"
+      "component---src-pages-about-js-77dd156736228278dd9d.js",
+      "component---src-pages-about-js-77dd156736228278dd9d.js.map"
+    ],
+    "path---tags-elementary-os": [
+      "path---tags-elementary-os-afb314d6823c559e4c62.js",
+      "path---tags-elementary-os-afb314d6823c559e4c62.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",

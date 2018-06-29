@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{153:function(o,e){o.exports={data:{site:{siteMetadata:{title:"Phanor Coll - Fullstack Developer",author:"Phanor Coll",description:"Personal website of Phanor Coll, to showcase my work and knowledge on different fields"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----395e64b3244ebf7907a9.js.map
